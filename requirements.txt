@@ -1,8 +1,6 @@
-numpy
-pandas
-streamlit
-prophet
-scikit-learn
-plotly
-os
-datetime
+streamlit>=1.24
+pandas>=1.5
+numpy>=1.24
+prophet>=1.2
+scikit-learn>=1.2
+plotly>=5.14
